@@ -51,7 +51,7 @@ def graph3d():
     ax.set_xlabel('X')
     ax.set_ylabel('Y')
     ax.set_zlabel('Z')
-    plt.title('3D - График sin(x^y')
+    plt.title('3D - График sin(x^y)')
     plt.show()
 
 
